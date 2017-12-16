@@ -1,3 +1,4 @@
 from organizer import Directories
 
-Directories.create_directories()
+User = Directories()
+User.create_directories()
