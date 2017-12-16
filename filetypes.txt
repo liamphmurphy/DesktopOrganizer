@@ -1,0 +1,9 @@
+Files types to organize:
+
+.doc, .docx, .odt,  ---> Documents/Word Documents
+.xls, .xlsx, .ods ---> Documents/Spreadsheets
+.jpg, jpeg, .png, .gif ----> Pictures
+.py, .css, .html, etc ----> Code (Subfolders for each type of file?)
+.ogg, .m4a, .mp3, .wav ----> Music
+.mp4, .webm, ----> Videos
+
